@@ -1,2 +1,2 @@
-Getting_and_cleaning_data
-=========================
+Project 01 - Wearable computing
+===============================
