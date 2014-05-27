@@ -1,7 +1,7 @@
 Data Info
 ================================
 
-[Here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) you will find a detailed description of Samsung Galaxy S smartphone data set used in this project. In addition, from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) you can download full data files to do your particular study.
+The data which used in this project is about Human Activity Recognition Using Smartphones [Here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) you will find a detailed description this data. In addition, from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) you can download full data files to do your particular analysis.
 
 
 The ```run_analysis.R``` Script
