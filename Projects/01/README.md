@@ -8,7 +8,7 @@ In this location you'll find the following:
 
 - **UCI HAR Dataset**: the location of the data used in this project.
  
-- **CodeBook.md**: the CodeBook containing all specifications of all data, ```run_analysis.R``` script and ```average.txt``` output data.
+- **CodeBook.md**: the CodeBook containing all specifications of the Samsung Galaxy S smartphone data set, ```run_analysis.R``` script and ```average.txt``` output data.
 
 - **run_analysis.R**: the script that handles the raw data sets.
 
