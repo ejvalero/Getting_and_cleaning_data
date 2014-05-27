@@ -9,8 +9,8 @@ The ```run_analysis.R``` Script
 
 Description
 --------------------------------
-This script contains two functions, ```preprocessing()``` and ```tidy()```, which merges training and testing data sets, estracts the measurements on the mean and standard deviation for each one, and creates a final tidy data set with the average of each variable by activity and subject.
-Both ```preprocessing()``` and ```tidy()``` functions have comments throughout their codes, indicating what each group of lines do.
+This script contains two functions, ```preprocessing()``` and ```tidy()```, which merges training and testing data sets, extracts the measurements on the mean and standard deviation for each one, and creates a final tidy data set with the average of each variable by activity and subject.
+In addition, both ```preprocessing()``` and ```tidy()``` functions have comments throughout their codes, indicating what each group of lines do.
 
 How to use
 --------------------------------
