@@ -1,7 +1,7 @@
 Data Info
 ================================
 
-The data used in this project is about Human Activity Recognition Using Smartphones. [Here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) you will find more detailed description about this data. In addition, from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) you can download full data files to do your particular analysis.
+The data used in this project is about Human Activity Recognition Using Smartphones. [Here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) you'll find more detailed description about this data. In addition, from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) you can download full data files to do your particular analysis.
 
 
 The ```run_analysis.R``` Script
