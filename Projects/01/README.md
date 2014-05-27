@@ -8,7 +8,7 @@ In this location you'll find the following:
 
 - **UCI HAR Dataset**: is the location of the data used in this project.
  
-- **CodeBook.md**: is the CodeBook containing all specifications of all data, ``run_analysis.R``` script and ```average.txt``` output data.
+- **CodeBook.md**: is the CodeBook containing all specifications of all data, ``¨run_analysis.R``` script and ```average.txt``` output data.
 
 - **run_analysis.R**: is the script that handles the raw data sets.
 
