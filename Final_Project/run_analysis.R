@@ -10,8 +10,8 @@ preprocessing <- function(dir, tfiles, out = paste("main.", tfiles, sep = "")){
         assign(dataname, data)
     }
     
-    vnames <- read.table(paste(directory,"/features.txt", sep = ""))
-    act <- as.character(read.table(paste(directory,"/activity_labels.txt", sep = ""))[,2])
+    vnames <- read.table(paste(dir,"/features.txt", sep = ""))
+    act <- as.character(read.table(paste(dir,"/activity_labels.txt", sep = ""))[,2])
     
     
     # Creating a list containig the file names into function environment
