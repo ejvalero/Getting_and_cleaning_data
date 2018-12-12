@@ -80,7 +80,7 @@ tidy <- function(){
     
     # Saving final data set to a .txt file
     
-    write.table(final, "average.txt", sep = "\t", row.names = F)
+    write.table(final, "average.txt", sep = ",", row.names = F)
 }
 
 tidy()
