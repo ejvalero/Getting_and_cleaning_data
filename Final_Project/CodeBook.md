@@ -25,4 +25,4 @@ source("run_analysis.R")
 Output Data
 ================================
 
-[average.txt](https://github.com/ejvalero/Getting_and_cleaning_data/blob/master/Projects/01/average.txt)
+[average.txt](https://github.com/ejvalero/Getting_and_cleaning_data/blob/master/Final_Project/average.txt)
